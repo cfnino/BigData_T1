@@ -18,7 +18,7 @@ Profesor: Fabian Peña.
 
 
 <details>
-<summary>:pushpin: Parte 1</summary>
+<summary>:pushpin: Parte 1 - Hadoop</summary>
   <br>
   1. Se instalo una maquina virtual en VirtualBox con Ubuntu como sistema:
    <br><br>
@@ -36,16 +36,16 @@ Profesor: Fabian Peña.
 </details>
 
 <details>
-<summary>:pushpin: Parte 2</summary>
+<summary>:pushpin: Parte 2 - MapReduce</summary>
 this is hidden
 </details>
 
 <details>
-<summary>:pushpin: Parte 3</summary>
+<summary>:pushpin: Parte 3 - Spark</summary>
 this is hidden
 </details>
 
 <details>
-<summary>:pushpin: Parte 4</summary>
+<summary>:pushpin: Parte 4 - Bono</summary>
 this is hidden
 </details>
