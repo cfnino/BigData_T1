@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Logo_de_la_Universidad_El_Bosque.svg/2260px-Logo_de_la_Universidad_El_Bosque.svg.png">
+<img align="right" width="100" height="100" src="./Screenshots/UB.jpg">
 
 <p>
 Big Data Analytics.
@@ -22,7 +22,7 @@ Profesor: Fabian Peña.
   <br>
   1. Se instalo una maquina virtual en VirtualBox con Ubuntu como sistema:
    <br><br>
-   <img src="./Screenshots/Ubuntu.png">
+   <img src="./Screenshots/Parte1/Ubuntu.png">
 
   <br>
   2. Se siguieron los pasos de esta guía:   
@@ -30,7 +30,7 @@ Profesor: Fabian Peña.
     <br><br>
     Evidencia:
     <br><br>
-    <img src="./Screenshots/Evidencia1.png">
+    <img src="./Screenshots/Parte1/Evidencia1.png">
    
     
 </details>
