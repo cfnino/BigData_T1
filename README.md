@@ -21,11 +21,16 @@ Profesor: Fabian Peña.
 <summary>:pushpin: Parte 1</summary>
   <br>
   1. Se instalo una maquina virtual en VirtualBox con Ubuntu como sistema:
-   
+   <br><br>
+   <img src="./Screenshots/Ubuntu.png">
 
   <br>
   2. Se siguieron los pasos de esta guía:   
-    <a href="http://cis.csuohio.edu/~sschung/cis612/Instruction_INSTALLING_HADOOP_Ubuntu.pdf">Guía Hadoop</a>            
+    <a href="http://cis.csuohio.edu/~sschung/cis612/Instruction_INSTALLING_HADOOP_Ubuntu.pdf">Guía Hadoop</a> 
+    
+    Evidencia:
+    <img src="./Screenshots/Evidencia1.png">
+    
 </details>
 
 <details>
