@@ -1,9 +1,9 @@
 <img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Logo_de_la_Universidad_El_Bosque.svg/2260px-Logo_de_la_Universidad_El_Bosque.svg.png">
 
 <p>
-Big Data Analytics
+Big Data Analytics.
 <br>
-Universidad el bosque
+Universidad el bosque.
 <br>
 Nombre: Carlos Niño.
 <br>
@@ -20,7 +20,12 @@ Profesor: Fabian Peña.
 <details>
 <summary>:pushpin: Parte 1</summary>
   <br>
-  1. 
+  1. Se instalo una maquina virtual en VirtualBox con Ubuntu como sistema:
+   
+
+  <br>
+  2. Se siguieron los pasos de esta guía:   
+    <a href="http://cis.csuohio.edu/~sschung/cis612/Instruction_INSTALLING_HADOOP_Ubuntu.pdf">Guía Hadoop</a>            
 </details>
 
 <details>
