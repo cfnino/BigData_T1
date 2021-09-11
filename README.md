@@ -1,4 +1,4 @@
-<img align="right" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Logo_de_la_Universidad_El_Bosque.svg/2260px-Logo_de_la_Universidad_El_Bosque.svg.png">
+<img align="right" width="100" height="100" src="./Screenshots/UB.jpg">
 
 <p>
 Big Data Analytics.
