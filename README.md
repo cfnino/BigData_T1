@@ -54,7 +54,9 @@ Profesor: Fabian Peña.
     <br>
    &nbsp;&nbsp;1.3. Copiar los archivos etc/hadoop/*.xml a la carpeta input:
     <br> 
-    &nbsp;&nbsp;Para esto se utiliza el siguiente comando de la guía oficial: bin/hdfs dfs -put etc/hadoop/*.xml input
+    &nbsp;&nbsp;Para esto se utiliza el siguiente comando de la guía oficial:
+    <br> 
+    <pre>bin/hdfs dfs -put etc/hadoop/*.xml input</pre>
     <br> 
     &nbsp;&nbsp;Evidencia de su ejecución en localhost:
     <br><br>
