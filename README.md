@@ -49,15 +49,8 @@ Profesor: Fabian Peña.
     
     `bin/hdfs dfs -mkdir /user/hdoop/input`
     
-    
-    
-    
-    
-    
-    
-    
     <br> 
-    &nbsp;&nbsp;Evidencia:
+    &nbsp;&nbsp;1.2.1. Evidencia:
     <br><br>
     <img src="./Screenshots/Parte2/ruta.png">
     <br>
