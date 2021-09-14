@@ -77,8 +77,10 @@ Profesor: Fabian Peña.
     <br>
     &nbsp;&nbsp;1.6. ¿Qué resultados generó el programa y cuales son los pasos MapReduce que implementa?
     &nbsp;&nbsp;
-    
+    <br>
     <hr>
+    <br>
+   2. Ejecutar WordCount del <a href="https://github.com/naver/hadoop/tree/master/hadoop-mapreduce-project/hadoop-mapreduce-examples/src/main/java/org/apache/hadoop/examples">jar de ejemplos</a>, cargando al HDFS un archivo de texto plano.
     
   
 </details>
