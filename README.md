@@ -28,7 +28,7 @@ Profesor: Fabian Peña.
   2. Se siguieron los pasos de esta guía:   
     <a href="http://cis.csuohio.edu/~sschung/cis612/Instruction_INSTALLING_HADOOP_Ubuntu.pdf">Guía Hadoop</a>
     <br><br>
-    Evidencia:
+    Evidencia de su ejecución y funcionamiento:
     <br><br>
     <img src="./Screenshots/Parte1/Evidencia1.png">
    
