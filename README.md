@@ -16,7 +16,7 @@ Profesor: Fabian Peña.
     :page_facing_up: TALLER 1
 </p>
 
-
+<!------------------------------------------------------------ PARTE 1 ------------------------------------------------------->
 <details>
 <summary>:pushpin: Parte 1 - Hadoop</summary>
   <br>
@@ -35,6 +35,7 @@ Profesor: Fabian Peña.
     
 </details>
 
+<!------------------------------------------------------------ PARTE 2 ------------------------------------------------------->
 <details>
 <summary>:pushpin: Parte 2 - MapReduce</summary>
     <br>
@@ -79,11 +80,13 @@ Profesor: Fabian Peña.
   
 </details>
 
+<!------------------------------------------------------------ PARTE 3 ------------------------------------------------------->
 <details>
 <summary>:pushpin: Parte 3 - Spark</summary>
 this is hidden
 </details>
 
+<!------------------------------------------------------------ PARTE 4 ------------------------------------------------------->
 <details>
 <summary>:pushpin: Parte 4 - Jupyter Notebook</summary>
 this is hidden
