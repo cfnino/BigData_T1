@@ -73,6 +73,8 @@ Profesor: Fabian Peña.
    &nbsp;&nbsp;1.5. Archivo de salida:
     <br><br>
     <img src="./Screenshots/Parte2/Ejemplo/Consola4.png">
+    <br>
+    <hr>
     
   
 </details>
