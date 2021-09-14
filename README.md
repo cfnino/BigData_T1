@@ -103,7 +103,6 @@ Profesor: Fabian Peña.
     <br><br>
     &nbsp;&nbsp;2.3. Ejecución WordCount:
     <br>
-    
     <br><br>
     &nbsp;&nbsp;2.4. ¿Qué resultados generó el programa y cuales son los pasos MapReduce que implementa?
     <br>
