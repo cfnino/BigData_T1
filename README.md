@@ -26,7 +26,7 @@ Profesor: Fabian Peña.
 
   <br>
   2. Se siguieron los pasos de esta guía:   
-    <a href="http://cis.csuohio.edu/~sschung/cis612/Instruction_INSTALLING_HADOOP_Ubuntu.pdf">Guía Hadoop</a>
+    <a href="http://cis.csuohio.edu/~sschung/cis612/Instruction_INSTALLING_HADOOP_Ubuntu.pdf" target="_blank">Guía Hadoop</a>
     <br><br>
     Evidencia de su ejecución y funcionamiento:
     <br><br>
@@ -39,7 +39,7 @@ Profesor: Fabian Peña.
 <details>
 <summary>:pushpin: Parte 2 - MapReduce</summary>
     <br>
-   1. Se siguieron los pasos de la <a href="https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html#Execution">guía oficial</a> de Apache Hadoop, en especifico la sección de execution:
+   1. Se siguieron los pasos de la <a href="https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html#Execution" target="_blank">guía oficial</a> de Apache Hadoop, en especifico la sección de execution:
    <br>
    &nbsp;&nbsp;1.1. Web interface:
     <br><br>
@@ -80,7 +80,7 @@ Profesor: Fabian Peña.
     &nbsp;&nbsp;
     <br>
     <hr>
-   2. Ejecutar WordCount del <a href="https://github.com/naver/hadoop/tree/master/hadoop-mapreduce-project/hadoop-mapreduce-examples/src/main/java/org/apache/hadoop/examples">jar de ejemplos</a>, cargando al HDFS un archivo de texto plano.
+   2. Ejecutar WordCount del <a href="https://github.com/naver/hadoop/tree/master/hadoop-mapreduce-project/hadoop-mapreduce-examples/src/main/java/org/apache/hadoop/examples" target="_blank">jar de ejemplos</a>, cargando al HDFS un archivo de texto plano.
     <br>
     &nbsp;&nbsp;2.1. Archivo de texto plano:
     <br>
