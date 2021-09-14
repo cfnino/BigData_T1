@@ -40,11 +40,11 @@ Profesor: Fabian Peña.
     <br>
    1. Se siguieron los pasos de la <a href="https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html#Execution">guía oficial</a> de Apache Hadoop, en especifico la sección de execution:
    <br>
-   1.1. Web interface:
+   &nbsp;&nbsp;1.1. Web interface:
     <br><br>
     <img src="./Screenshots/Parte2/localhost.png">
    <br>
-   1.2. Se crearon el siguiente directorio con el siguiente comando de la guía oficial:
+   &nbsp;&nbsp;1.2. Se crearon el siguiente directorio con el siguiente comando de la guía oficial:
     <br>
     bin/hdfs dfs -mkdir /user/hdoop/input
     <br> 
@@ -52,7 +52,7 @@ Profesor: Fabian Peña.
     <br><br>
     <img src="./Screenshots/Parte2/ruta.png">
     <br>
-   1.3. Copiar los archivos etc/hadoop/*.xml a la carpeta input:
+   &nbsp;&nbsp;1.3. Copiar los archivos etc/hadoop/*.xml a la carpeta input:
     <br> 
     Para esto se utiliza el siguiente comando de la guía oficial: bin/hdfs dfs -put etc/hadoop/*.xml input
     <br> 
@@ -60,7 +60,7 @@ Profesor: Fabian Peña.
     <br><br>
     <img src="./Screenshots/Parte2/put.png">
     <br>
-   1.4. Ejecución del ejemplo:
+   &nbsp;&nbsp;1.4. Ejecución del ejemplo:
      <br><br>
     <img src="./Screenshots/Parte2/Ejemplo/Consola1.png">
     <br>
@@ -68,7 +68,7 @@ Profesor: Fabian Peña.
     <br>
     <img src="./Screenshots/Parte2/Ejemplo/Consola3.png">
     <br>
-   1.5. Archivo de salida:
+   &nbsp;&nbsp;1.5. Archivo de salida:
     <br><br>
     <img src="./Screenshots/Parte2/Ejemplo/Consola4.png">
     
