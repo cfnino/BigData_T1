@@ -50,6 +50,12 @@ Profesor: Fabian Peña.
     `bin/hdfs dfs -mkdir /user/hdoop/input`
     
     
+    
+    
+    
+    
+    
+    
     <br> 
     &nbsp;&nbsp;Evidencia:
     <br><br>
