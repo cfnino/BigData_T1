@@ -84,12 +84,29 @@ Profesor: Fabian Peña.
     <br>
     &nbsp;&nbsp;2.1. Archivo de texto plano:
     <br>
+    &nbsp;&nbsp; Para esta parte copiamos la letra de la canción <a href="https://www.letras.com/pedro-capo/calma-remix-part-farruko/">calma</a> y creamos un archivo llamado calma.txt
+    <br><br>
+    <img src="./Screenshots/Parte2/Wordcount/nano.png">
+    <br>
+    &nbsp;&nbsp; Este archivo lo guardamos en la carpeta de hadoop:
+    <br><br>
+    <img src="./Screenshots/Parte2/Wordcount/texto.png">
+    <br>
     &nbsp;&nbsp;2.2. Archivo cargado al HDFS:
+    <br>
+    &nbsp;&nbsp; Para subirlo al HDFS:
+    <br><br>
+    <pre>bin/hdfs dfs -put calma.txt input</pre>
+    <br>
+    &nbsp;&nbsp; Archivo cargado:
+    <br><br>
+    <img src="./Screenshots/Parte2/Wordcount/hdfs.png">
     <br>
     &nbsp;&nbsp;2.3. Ejecución WordCount:
     <br><br>
     &nbsp;&nbsp;2.4. ¿Qué resultados generó el programa y cuales son los pasos MapReduce que implementa?
     <br>
+    
   
 </details>
 
