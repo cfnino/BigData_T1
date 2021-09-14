@@ -97,7 +97,6 @@ Profesor: Fabian Peña.
     &nbsp;&nbsp; Para subirlo al HDFS:
     <br><br>
     <pre>bin/hdfs dfs -put calma.txt input</pre>
-    <br>
     &nbsp;&nbsp; Archivo cargado:
     <br><br>
     <img src="./Screenshots/Parte2/Wordcount/hdfs.png">
