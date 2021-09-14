@@ -67,6 +67,10 @@ Profesor: Fabian Peña.
     <img src="./Screenshots/Parte2/Ejemplo/Consola2.png">
     <br>
     <img src="./Screenshots/Parte2/Ejemplo/Consola3.png">
+    <br>
+   1.5. Archivo de salida:
+    <br><br>
+    <img src="./Screenshots/Parte2/Ejemplo/Consola4.png">
     
   
 </details>
