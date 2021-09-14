@@ -46,6 +46,6 @@ this is hidden
 </details>
 
 <details>
-<summary>:pushpin: Parte 4 - Bono</summary>
+<summary>:pushpin: Parte 4 - Jupyter Notebook</summary>
 this is hidden
 </details>
