@@ -48,9 +48,9 @@ Profesor: Fabian Peña.
   .
   ├─ hdfs/* - # Carpeta HDFS
        ├─ user/ 
-           ├─ hdoop/ - # hdoop hace referencia a nuestro usuario 
-                ├─ input/ - # Donde guardaremos los archivos de entrada
-                ├─ output/ - # Donde guardaremos los archivos de salida
+       |    ├─ hdoop/ - # hdoop hace referencia a nuestro usuario 
+       |         ├─ input/ - # Donde guardaremos los archivos de entrada
+       |         ├─ output/ - # Donde guardaremos los archivos de salida
     <br> 
     Evidencia:
     <br><br>
