@@ -74,14 +74,21 @@ Profesor: Fabian Peña.
    &nbsp;&nbsp;1.5. Archivo de salida:
     <br><br>
     <img src="./Screenshots/Parte2/Ejemplo/Consola4.png">
-    <br>
+    <br><br>
     &nbsp;&nbsp;1.6. ¿Qué resultados generó el programa y cuales son los pasos MapReduce que implementa?
+    <br>
     &nbsp;&nbsp;
     <br>
     <hr>
-    <br>
    2. Ejecutar WordCount del <a href="https://github.com/naver/hadoop/tree/master/hadoop-mapreduce-project/hadoop-mapreduce-examples/src/main/java/org/apache/hadoop/examples">jar de ejemplos</a>, cargando al HDFS un archivo de texto plano.
-    
+    &nbsp;&nbsp;2.1. Archivo de texto plano:
+    <br>
+    &nbsp;&nbsp;2.2. Archivo cargado al HDFS:
+    <br>
+    &nbsp;&nbsp;2.3. Ejecución WordCount:
+    <br><br>
+    &nbsp;&nbsp;2.4. ¿Qué resultados generó el programa y cuales son los pasos MapReduce que implementa?
+    <br>
   
 </details>
 
