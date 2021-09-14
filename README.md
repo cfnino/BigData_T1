@@ -46,7 +46,9 @@ Profesor: Fabian Peña.
    <br>
    &nbsp;&nbsp;1.2. Se crearon el siguiente directorio con el siguiente comando de la guía oficial:
     <br>
-    &nbsp;&nbsp;bin/hdfs dfs -mkdir /user/hdoop/input
+    ```
+    bin/hdfs dfs -mkdir /user/hdoop/input
+    ```
     <br> 
     &nbsp;&nbsp;Evidencia:
     <br><br>
