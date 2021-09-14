@@ -44,13 +44,11 @@ Profesor: Fabian Peña.
     <br><br>
     <img src="./Screenshots/Parte2/localhost.png">
    <br>
-   1.2. Se crearon los directorios: 
-  .
-  ├─ hdfs/* - # Carpeta HDFS
-       ├─ user/ 
-       |    ├─ hdoop/ - # hdoop hace referencia a nuestro usuario 
-       |         ├─ input/ - # Donde guardaremos los archivos de entrada
-       |         ├─ output/ - # Donde guardaremos los archivos de salida
+   1.2. Se crearon los directorios con el siguiente comando de la guía oficial:
+    <br>
+    bin/hdfs dfs -mkdir /user/hdoop/input
+    <br>
+    bin/hdfs dfs -mkdir /user/hdoop/output
     <br> 
     Evidencia:
     <br><br>
