@@ -46,11 +46,11 @@ Profesor: Fabian Peña.
    <br>
    1.2. Se crearon los directorios: 
   .
-  ├─ hdfs/*
+  ├─ hdfs/* - # Carpeta HDFS
        ├─ user/ 
-           ├─ hdoop/ 
-                ├─ input/ 
-                ├─ output/
+           ├─ hdoop/ - # hdoop hace referencia a nuestro usuario 
+                ├─ input/ - # Donde guardaremos los archivos de entrada
+                ├─ output/ - # Donde guardaremos los archivos de salida
     <br> 
     Evidencia:
     <br><br>
