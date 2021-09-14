@@ -45,11 +45,12 @@ Profesor: Fabian Peña.
     <img src="./Screenshots/Parte2/localhost.png">
    <br>
    1.2. Se crearon los directorios: 
-  hdfs/*
-    ├─ user/ 
-        ├─ hdoop/ 
-            ├─ input/ 
-            ├─ output/
+  .
+  ├─ hdfs/*
+       ├─ user/ 
+           ├─ hdoop/ 
+                ├─ input/ 
+                ├─ output/
     <br> 
     Evidencia:
     <br><br>
