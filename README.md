@@ -44,23 +44,29 @@ Profesor: Fabian Peña.
     <br><br>
     <img src="./Screenshots/Parte2/localhost.png">
    <br>
-   1.2. Se crearon los directorios con el siguiente comando de la guía oficial:
+   1.2. Se crearon el siguiente directorio con el siguiente comando de la guía oficial:
     <br>
     bin/hdfs dfs -mkdir /user/hdoop/input
-    <br>
-    bin/hdfs dfs -mkdir /user/hdoop/output
     <br> 
     Evidencia:
     <br><br>
     <img src="./Screenshots/Parte2/ruta.png">
     <br>
-    1.3. Copiar los archivos etc/hadoop/*.xml a la carpeta input:
+   1.3. Copiar los archivos etc/hadoop/*.xml a la carpeta input:
     <br> 
     Para esto se utiliza el siguiente comando de la guía oficial: bin/hdfs dfs -put etc/hadoop/*.xml input
     <br> 
     Evidencia de su ejecución en localhost:
     <br><br>
     <img src="./Screenshots/Parte2/put.png">
+    <br>
+   1.4. Ejecución del ejemplo:
+     <br><br>
+    <img src="./Screenshots/Parte2/Ejemplo/Consola1.png">
+    <br>
+    <img src="./Screenshots/Parte2/Ejemplo/Consola2.png">
+    <br>
+    <img src="./Screenshots/Parte2/Ejemplo/Consola3.png">
     
   
 </details>
