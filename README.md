@@ -75,6 +75,9 @@ Profesor: Fabian Peña.
     <br><br>
     <img src="./Screenshots/Parte2/Ejemplo/Consola4.png">
     <br>
+    &nbsp;&nbsp;1.6. ¿Qué resultados generó el programa y cuales son los pasos MapReduce que implementa?
+    &nbsp;&nbsp;
+    
     <hr>
     
   
