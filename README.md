@@ -37,6 +37,7 @@ Profesor: Fabian Peña.
 
 <details>
 <summary>:pushpin: Parte 2 - MapReduce</summary>
+    
     <br>
    1. Se siguieron los pasos de la <a href="https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html#Execution">guía oficial</a> de Apache Hadoop, en especifico la sección de execution:
    <br>
@@ -46,7 +47,9 @@ Profesor: Fabian Peña.
    <br>
    &nbsp;&nbsp;1.2. Se crearon el siguiente directorio con el siguiente comando de la guía oficial:
     <br>
-    &nbsp;&nbsp;bin/hdfs dfs -mkdir /user/hdoop/input
+    
+    `bin/hdfs dfs -mkdir /user/hdoop/input`
+    
     <br> 
     &nbsp;&nbsp;Evidencia:
     <br><br>
