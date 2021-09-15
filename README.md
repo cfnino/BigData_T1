@@ -119,6 +119,10 @@ Profesor: Fabian Peña.
     <br><br>
     <img src="./Screenshots/Parte2/Wordcount/resultado.png">
     <br><br>
+    &nbsp;&nbsp; Resultado por localhost:
+    <br><br>
+    <img src="./Screenshots/Parte2/Wordcount/output.png">
+    <br><br>
     &nbsp;&nbsp;2.4. ¿Qué resultados generó el programa y cuales son los pasos MapReduce que implementa?
     <br>
     &nbsp;&nbsp;El archivo de salida se encuentra en la ruta: <a href="./Parte2/">Parte2/part-r-00000</a>
