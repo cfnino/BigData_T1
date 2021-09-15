@@ -130,7 +130,33 @@ Profesor: Fabian Peña.
 <!------------------------------------------------------------ PARTE 3 ------------------------------------------------------->
 <details>
 <summary>:pushpin: Parte 3 - Spark</summary>
-this is hidden
+ <br>
+    1. Se siguieron los pasos de la <a href="http://cis.csuohio.edu/~sschung/cis612/CIS612_SparkInstallation_Ubuntu.pdf">guía</a> para instalar Spark en Ubuntu.
+   <br><br>
+    2. Se ejecuta el master y el worker:
+    <br><br>
+    <pre>start-master.sh </pre>
+    <img src="./Screenshots/Parte3/start-master.png">
+    <br>
+    <img src="./Screenshots/Parte3/8080.png">
+    <br><br>
+    <pre>start-worker.sh spark://carlos:7077 </pre>
+    <img src="./Screenshots/Parte3/worker.png">
+    <br>
+    <img src="./Screenshots/Parte3/8080-worker.png">
+    <br><br>
+    3. Se ejecuta pyspark:
+    <br><br>
+    <img src="./Screenshots/Parte3/pyspark.png">
+    <br><br>
+    4. Creamos un archivo de texto plano llamado poema.txt, para esta parte copiamos el poema: <a href="https://www.zendalibros.com/los-30-mejores-poemas-en-espanol/">Tú me quieres blanca, de Alfonsina Storni</a>
+    <br><br>
+    5. Ejecución wordcount:
+     <br><br>
+    <img src="./Screenshots/Parte3/wordcount.png">
+    <br><br>
+    6. El archivo de salida se encuentra en la ruta: <a href="./Parte3/">Parte3/part-r-00000</a>
+    <br><br>
 </details>
 
 <!------------------------------------------------------------ PARTE 4 ------------------------------------------------------->
