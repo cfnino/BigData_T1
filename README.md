@@ -71,7 +71,7 @@ Profesor: Fabian Peña.
     <br>
     <img src="./Screenshots/Parte2/Ejemplo/Consola3.png">
     <br>
-   &nbsp;&nbsp;1.5. Archivo de salida:
+   &nbsp;&nbsp;1.5. Salida:
     <br><br>
     <img src="./Screenshots/Parte2/Ejemplo/Consola4.png">
     <br><br>
@@ -80,32 +80,49 @@ Profesor: Fabian Peña.
     &nbsp;&nbsp;
     <br>
     <hr>
+<!------------------------------------------------------------ PARTE 2.2. ------------------------------------------------------->
    2. Ejecutar WordCount del <a href="https://github.com/naver/hadoop/tree/master/hadoop-mapreduce-project/hadoop-mapreduce-examples/src/main/java/org/apache/hadoop/examples">jar de ejemplos</a>, cargando al HDFS un archivo de texto plano.
+    <br>
+    <details>
+    <summary>:pushpin: Re-instalación Hadoop</summary>
+     &nbsp;&nbsp; Por problemas tecnicos la primera maquina virtual la elimine y cree una nueva, donde maneje la ultima versión de Hadoop:
+        <br><br>
+    <img src="./Screenshots/Parte2/Wordcount/Hdoop/1.png">
+        <br>
+    </details>
     <br>
     &nbsp;&nbsp;2.1. Archivo de texto plano:
     <br>
-    &nbsp;&nbsp; Para esta parte copiamos la letra de la canción <a href="https://www.letras.com/pedro-capo/calma-remix-part-farruko/">calma</a> y creamos un archivo llamado calma.txt
+    &nbsp;&nbsp; Para esta parte copiamos el poema: <a href="https://www.zendalibros.com/los-30-mejores-poemas-en-espanol/">Me gusta cuando callas, de Pablo Neruda</a> y creamos un archivo llamado poema.txt
     <br><br>
-    <img src="./Screenshots/Parte2/Wordcount/nano.png">
-    <br>
-    &nbsp;&nbsp; Este archivo lo guardamos en la carpeta de hadoop:
-    <br><br>
-    <img src="./Screenshots/Parte2/Wordcount/texto.png">
+    <img src="./Screenshots/Parte2/Wordcount/put.png">
     <br>
     &nbsp;&nbsp;2.2. Archivo cargado al HDFS:
     <br>
     &nbsp;&nbsp; Para subirlo al HDFS:
     <br><br>
-    <pre>bin/hdfs dfs -put calma.txt input</pre>
+    <pre>bin/hdfs dfs -put poema.txt input</pre>
     &nbsp;&nbsp; Archivo cargado:
     <br><br>
-    <img src="./Screenshots/Parte2/Wordcount/hdfs.png">
+    <img src="./Screenshots/Parte2/Wordcount/hdfs2.png">
     <br><br>
     &nbsp;&nbsp;2.3. Ejecución WordCount:
-    <br>
+    <br><br>
+    <pre>bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.1.jar wordcount input output</pre>
+    &nbsp;&nbsp;Consola:
+    <br><br>
+     <img src="./Screenshots/Parte2/Wordcount/consola1.png">
+    <br><br>
+    <img src="./Screenshots/Parte2/Wordcount/Consola2.png">
+    <br><br>
+    &nbsp;&nbsp;1.5. Salida:
+    <br><br>
+    <img src="./Screenshots/Parte2/Wordcount/resultado.png">
     <br><br>
     &nbsp;&nbsp;2.4. ¿Qué resultados generó el programa y cuales son los pasos MapReduce que implementa?
     <br>
+    &nbsp;&nbsp;El archivo de salida se encuentra en la ruta:
+    &nbsp;&nbsp;Parte2/part-r-00000
     
   
 </details>
