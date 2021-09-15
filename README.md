@@ -122,7 +122,8 @@ Profesor: Fabian Peña.
     &nbsp;&nbsp;2.4. ¿Qué resultados generó el programa y cuales son los pasos MapReduce que implementa?
     <br>
     &nbsp;&nbsp;El archivo de salida se encuentra en la ruta:
-    &nbsp;&nbsp;Parte2/part-r-00000
+    
+    [Parte2/part-r-00000](./Parte2/)
     
   
 </details>
