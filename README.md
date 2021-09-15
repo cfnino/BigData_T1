@@ -19,12 +19,11 @@ Profesor: Fabian Peña.
 <!------------------------------------------------------------ PARTE 1 ------------------------------------------------------->
 <details>
 <summary>:pushpin: Parte 1 - Hadoop</summary>
-  <br><br>
+  <br>
   1. Se instalo una maquina virtual en VirtualBox con Ubuntu como sistema:
    <br><br>
    <img src="./Screenshots/Parte1/Ubuntu.png">
-
-  <br><br>
+  <br>
   2. Se siguieron los pasos de esta guía:   
     <a href="http://cis.csuohio.edu/~sschung/cis612/Instruction_INSTALLING_HADOOP_Ubuntu.pdf">Guía Hadoop</a>
     <br><br>
@@ -38,7 +37,7 @@ Profesor: Fabian Peña.
 <!------------------------------------------------------------ PARTE 2 ------------------------------------------------------->
 <details>
 <summary>:pushpin: Parte 2 - MapReduce</summary>
-    <br><br>
+    <br>
    1. Se siguieron los pasos de la <a href="https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html#Execution">guía oficial</a> de Apache Hadoop, en especifico la sección de execution:
    <br><br>
    &nbsp;&nbsp;1.1. Web interface:
