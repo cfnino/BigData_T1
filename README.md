@@ -81,10 +81,17 @@ Profesor: Fabian Peña.
     <br>
     <hr>
    2. Ejecutar WordCount del <a href="https://github.com/naver/hadoop/tree/master/hadoop-mapreduce-project/hadoop-mapreduce-examples/src/main/java/org/apache/hadoop/examples">jar de ejemplos</a>, cargando al HDFS un archivo de texto plano.
+    <details>
+    <summary>:pushpin: Re-instalación Hadoop</summary>
+     &nbsp;&nbsp; Por problemas tecnicos la primera maquina virtual la elimine y cree una nueva, donde maneje la ultima versión de Hadoop:
+        <br><br>
+    <img src="./Screenshots/Parte2/Wordcount/Hdoop/1.png">
+        <br>
+    </details>
     <br>
     &nbsp;&nbsp;2.1. Archivo de texto plano:
     <br>
-    &nbsp;&nbsp; Para esta parte copiamos la letra de la canción <a href="https://www.letras.com/pedro-capo/calma-remix-part-farruko/">calma</a> y creamos un archivo llamado calma.txt
+    &nbsp;&nbsp; Para esta parte copiamos el poema <a href="https://www.zendalibros.com/los-30-mejores-poemas-en-espanol/">Me gusta cuando callas, de Pablo Neruda</a> y creamos un archivo llamado poema.txt
     <br><br>
     <img src="./Screenshots/Parte2/Wordcount/nano.png">
     <br>
