@@ -44,7 +44,7 @@ Profesor: Fabian Peña.
     <br><br>
     <img src="./Screenshots/Parte2/localhost.png">
    <br><br>
-   &nbsp;&nbsp;1.2. Se crearon el siguiente directorio con el siguiente comando de la guía oficial:
+   &nbsp;&nbsp;1.2. Se crea el siguiente directorio con el siguiente comando de la guía oficial:
     <br><br>
     <pre><code>bin/hdfs dfs -mkdir /user/hdoop/input </code></pre>
     <br> 
